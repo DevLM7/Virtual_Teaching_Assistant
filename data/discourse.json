@@ -1,0 +1,24 @@
+[
+    {
+      "topic_id": 1001,
+      "post_id": 5001,
+      "title": "GA5 Question 8 Clarification",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/4",
+      "text": "You must use `gpt-3.5-turbo-0125`, even if the AI Proxy only supports `gpt-4o-mini`. Use the OpenAI API directly for this question."
+    },
+    {
+      "topic_id": 1001,
+      "post_id": 5002,
+      "title": "GA5 Question 8 Clarification",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/3",
+      "text": "My understanding is that you just have to use a tokenizer, similar to what Prof. Anand used, to get the number of tokens and multiply that by the given rate."
+    },
+    {
+      "topic_id": 1002,
+      "post_id": 5003,
+      "title": "Pandas GroupBy Doubt",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/pandas-groupby-help/157888/1",
+      "text": "Use `df.groupby('col')` and then apply aggregation. Refer to Week 3 video on Pandas operations."
+    }
+  ]
+  
